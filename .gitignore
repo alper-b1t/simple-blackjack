@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Editor files
+.vscode/
+.idea/
